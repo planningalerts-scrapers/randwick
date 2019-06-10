@@ -18,41 +18,6 @@
   address: 238 Carrington Road RANDWICK NSW 2031
   date_scraped: '2019-05-15'
   info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=645624
-- council_reference: DA/280/2019
-  description: Strata subdivision of existing attached dual occupancy.
-  date_received: '2019-05-24'
-  address: 130-130A Prince Edward Street MALABAR NSW 2036
-  date_scraped: '2019-05-15'
-  info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=645564
-- council_reference: DA/281/2019
-  description: To remove tree
-  date_received: '2019-05-24'
-  address: 46 Earl Street RANDWICK NSW 2031
-  date_scraped: '2019-05-15'
-  info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=645574
-- council_reference: DA/282/2019
-  description: Ground and first floor alterations and additions to existing dwelling,
-    construction of study/storeroom adjacent to existing garage, swimming pool to
-    rear and associated works.
-  date_received: '2019-05-24'
-  address: 29 Rodman Avenue MAROUBRA NSW 2035
-  date_scraped: '2019-05-15'
-  info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=642614
-- council_reference: DA/283/2019
-  description: Consolidate site into 1 lot, demolish existing structures, excavation,
-    construction of part 2, part 3 level building including basement car parking for
-    13 cars, warehousing, ancillary office space and associated works.
-  date_received: '2019-05-24'
-  address: 84 Perry Street MATRAVILLE NSW 2036
-  date_scraped: '2019-05-15'
-  info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=645587
-- council_reference: DA/284/2019
-  description: Replacement of existing dilapidated balconies with new balconies including
-    ballustrading and roof, alterations to existing front fencing and associated works.
-  date_received: '2019-05-24'
-  address: 16 Church Street RANDWICK NSW 2031
-  date_scraped: '2019-05-15'
-  info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=645597
 - council_reference: DA/285/2019
   description: Ground level addition to western side of existing dwelling.
   date_received: '2019-05-27'
@@ -231,6 +196,12 @@
   address: 93 Macquarie Street CHIFLEY NSW 2036
   date_scraped: '2019-05-15'
   info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=646507
+- council_reference: DA/311/2019
+  description: Construct rear addition to dwelling.
+  date_received: '2019-06-07'
+  address: 66 Mooramie Avenue KENSINGTON NSW 2033
+  date_scraped: '2019-05-15'
+  info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=646568
 - council_reference: DA/370/2017B
   description: 'Modification of approved development by addition of Building Manager''s
     office on ground floor of Building E3.3, updated BASIX certificate, alteration
@@ -283,6 +254,13 @@
   address: 144 Boyce Road MAROUBRA NSW 2035
   date_scraped: '2019-05-15'
   info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=645672
+- council_reference: DA/726/2018A
+  description: 'Modification of approved development. Original consent: Alterations
+    and two storey addition to the rear of the existing dwelling (Heritage Item).'
+  date_received: '2019-06-07'
+  address: 13 Kemmis Street RANDWICK NSW 2031
+  date_scraped: '2019-05-15'
+  info_url: http://planning.randwick.nsw.gov.au/Pages/XC.Track.Advanced/SearchApplication.aspx?id=646564
 - council_reference: DA/727/2017A
   description: 'Modification of approved development to relocation of swimming pools
     towards rear, and alterations to rear alfresco area and privacy screens. Original
