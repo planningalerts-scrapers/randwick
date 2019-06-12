@@ -1,1 +1,2 @@
-Gets development applications for "Randwick City Council.":http://applications.randwick.nsw.gov.au/modules/applicationmaster/
+This scraper has been merged into https://github.com/planningalerts-scrapers/multiple_icon
+with authority_label randwick
